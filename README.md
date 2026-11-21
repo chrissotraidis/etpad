@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/chrissotraidis/etpad/releases/latest"><img alt="Release 0.1.0 preview" src="https://img.shields.io/badge/release-0.1.0%20preview-FF9F0A"></a>
+  <a href="https://github.com/chrissotraidis/etpad/releases/latest"><img alt="Release 0.1.1 preview" src="https://img.shields.io/badge/release-0.1.1%20preview-FF9F0A"></a>
   <img alt="iPadOS 16 or later" src="https://img.shields.io/badge/iPadOS-16%2B-0A84FF?logo=apple">
   <img alt="Apple silicon Mac" src="https://img.shields.io/badge/Mac-Apple%20silicon-0A84FF?logo=apple">
   <img alt="ET: Legacy 2.86.2" src="https://img.shields.io/badge/ET%3A%20Legacy-2.86.2-B22222">
