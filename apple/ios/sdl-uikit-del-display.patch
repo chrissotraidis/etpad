@@ -1,0 +1,10 @@
+--- a/src/video/uikit/SDL_uikitmodes.m
++++ b/src/video/uikit/SDL_uikitmodes.m
+@@ -340,6 +340,7 @@
+ 
+         if (data && data.uiscreen == uiscreen) {
+             CFRelease(SDL_GetDisplayDriverData(i));
++            SDL_GetDisplay(i)->driverdata = NULL;
+             SDL_DelVideoDisplay(i);
+             return;
+         }
